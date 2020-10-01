@@ -13,3 +13,5 @@ const Pagefooter = (props) => {
         </footer>
     );
 };
+
+export default Pagefooter;
