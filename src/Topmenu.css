@@ -1,0 +1,26 @@
+nav {
+    display: flex;
+    align-items: center;
+}
+ul {
+    flex: 75%;
+    display: flex;
+    list-style-type: none;
+}
+li {
+    flex: 0 1 auto;
+    width: 20%;
+}
+input {
+    height: 2em;
+    margin-right: 1em;
+    border-radius: 8px;
+    border: none;
+}
+a {
+    text-decoration: none;
+    color: wheat;
+}
+a:hover {
+    color: whitesmoke;
+}

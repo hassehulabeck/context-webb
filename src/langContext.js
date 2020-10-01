@@ -5,7 +5,7 @@ const langs = {
         home: "Hem",
         products: "Våra produkter",
         about: "Om oss",
-        contact: "Contact",
+        contact: "Kontakt",
     },
     english: {
         home: "Home",
