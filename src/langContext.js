@@ -15,5 +15,8 @@ const langs = {
     },
 };
 
+const selectedLang = "";
+const selectLang = {};
+
 const langContext = React.createContext(langs.swedish);
-export { langs, langContext };
+export { langs, selectedLang, selectLang, langContext };
