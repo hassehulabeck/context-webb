@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import { langContext } from "./langContext";
 import "./Pagefooter.css";
 
-const Pagefooter = (props) => {
+const Pagefooter = (props: any) => {
     const { selectLang, currentLang } = useContext(langContext);
     return (
         <footer>

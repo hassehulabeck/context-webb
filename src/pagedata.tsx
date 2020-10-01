@@ -1,5 +1,5 @@
 export const Text = `
-Vi är ett bra företag
+Vi är ett bra företag med god kvalitet.
 `;
 
 export const Address = {

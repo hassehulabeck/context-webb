@@ -1,6 +1,6 @@
 import React from "react";
 
-const langs = {
+const langs: any = {
     swedish: {
         home: "Hem",
         products: "Våra produkter",
